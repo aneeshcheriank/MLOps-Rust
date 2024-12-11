@@ -20,4 +20,13 @@ exploration of Rust as an MLOps language
 
 - <b>GitHub Copilot</b> - AI pair programmer tool designed to suggest code completions and entire functions in real time. Supports Rust.
 
+## Swithcing from python to RUST
+- resent language
+    - included best practices of other languages
+    - packaging -> cargo based system
+- performance -> C/C++ level performance
+- concurrency -> python; global interpreter lock
+- Safety: desinged as a system programming language, considered safety
+- compiled languge -> binary executable
+- Code assist -> GitHub copiolot
 
