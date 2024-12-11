@@ -30,3 +30,13 @@ exploration of Rust as an MLOps language
 - compiled languge -> binary executable
 - Code assist -> GitHub copiolot
 
+## Rust Lecture Notes
+- [Rust Book](nogibjj.github.io/rust-tutorial)
+
+## Installing Rust
+- [Rust home page (installation)](https://www.rust-lang.org/tools/install)
+- Cloud9 Environment
+- install rust in cloud9
+- [project template for Rust](nogibjj/rust-new-project-template)
+- 
+
